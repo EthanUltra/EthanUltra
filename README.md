@@ -22,7 +22,7 @@ Final-year Informatiker EFZ Applikationsentwicklung student based in Zürich, Sw
 |---|---|---|
 | [WatchTower](https://github.com/EthanUltra/WatchTower) | Mini SIEM dashboard with real-time threat detection | React, Python, FastAPI, WebSockets |
 | [Blue Team Lab](https://github.com/EthanUltra/Blue-Team-Log-Analysis-Lab) | Log analysis platform with MITRE ATT&CK detection rules | React, Node.js, Express |
-| [Secure Auth](https://github.com/EthanUltra/secure-auth-web) | Production-style auth with Argon2, JWT, rate limiting | React, Node.js, PostgreSQL |
+| [Secure Auth](https://github.com/EthanUltra/Secure-Authentication-Patterns) | Production-style auth with Argon2, JWT, rate limiting | React, Node.js, PostgreSQL |
 | [AI Code Review](https://github.com/EthanUltra/codereview) | AI-powered code review tool with Monaco editor | React, Python, FastAPI, Claude API |
 | [ChatSphere](https://github.com/EthanUltra/chatsphere) | Real-time chat with WebSockets and presence indicators | React, Node.js, PostgreSQL |
 | [PipelineWatch](https://github.com/EthanUltra/pipelinewatch) | Task board with full CI/CD pipeline showcase | React, Node.js, GitHub Actions, Docker |
